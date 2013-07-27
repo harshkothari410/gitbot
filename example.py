@@ -1,5 +1,8 @@
 import sys,os
 from gitbot import *
+from commit import *
+from dicttojson import *
 
-data = gitdata(sys.argv[1],sys.argv[2])
-print data
+data = commit(sys.argv[1],sys.argv[2])
+jsondata = dicttojson(data)
+print jsondata
