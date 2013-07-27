@@ -1,4 +1,4 @@
-from sys
+import sys
 
 def savetofile(filename,jsondata):
 	fopen = open(filename,'w')

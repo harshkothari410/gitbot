@@ -1,0 +1,65 @@
+{
+    "jquery-1.10.2-min.js": {
+        "commit": "bcb3af56297089f0074156a32e18be1faba1fe02",
+        "message": "initial commit",
+        "data": "Mon Jul 15 03:33:34 2013 +0530",
+        "long_message": "Added certain facility like adding language, searching language and filtering language",
+        "author": "harshkothari410 <harshkothari410@gmail.com>"
+    },
+    "langlist.js": {
+        "commit": "bcb3af56297089f0074156a32e18be1faba1fe02",
+        "message": "initial commit",
+        "data": "Mon Jul 15 03:33:34 2013 +0530",
+        "long_message": "Added certain facility like adding language, searching language and filtering language",
+        "author": "harshkothari410 <harshkothari410@gmail.com>"
+    },
+    "bootstrap-typeahead.js": {
+        "commit": "bcb3af56297089f0074156a32e18be1faba1fe02",
+        "message": "initial commit",
+        "data": "Mon Jul 15 03:33:34 2013 +0530",
+        "long_message": "Added certain facility like adding language, searching language and filtering language",
+        "author": "harshkothari410 <harshkothari410@gmail.com>"
+    },
+    "bootstrap.js": {
+        "commit": "bcb3af56297089f0074156a32e18be1faba1fe02",
+        "message": "initial commit",
+        "data": "Mon Jul 15 03:33:34 2013 +0530",
+        "long_message": "Added certain facility like adding language, searching language and filtering language",
+        "author": "harshkothari410 <harshkothari410@gmail.com>"
+    },
+    "filter.js": {
+        "commit": "bcb3af56297089f0074156a32e18be1faba1fe02",
+        "message": "initial commit",
+        "data": "Mon Jul 15 03:33:34 2013 +0530",
+        "long_message": "Added certain facility like adding language, searching language and filtering language",
+        "author": "harshkothari410 <harshkothari410@gmail.com>"
+    },
+    "typeahead.min.js": {
+        "commit": "bcb3af56297089f0074156a32e18be1faba1fe02",
+        "message": "initial commit",
+        "data": "Mon Jul 15 03:33:34 2013 +0530",
+        "long_message": "Added certain facility like adding language, searching language and filtering language",
+        "author": "harshkothari410 <harshkothari410@gmail.com>"
+    },
+    "typeahead.js": {
+        "commit": "bcb3af56297089f0074156a32e18be1faba1fe02",
+        "message": "initial commit",
+        "data": "Mon Jul 15 03:33:34 2013 +0530",
+        "long_message": "Added certain facility like adding language, searching language and filtering language",
+        "author": "harshkothari410 <harshkothari410@gmail.com>"
+    },
+    "langsearch.js": {
+        "commit": "bcb3af56297089f0074156a32e18be1faba1fe02",
+        "message": "initial commit",
+        "data": "Mon Jul 15 03:33:34 2013 +0530",
+        "long_message": "Added certain facility like adding language, searching language and filtering language",
+        "author": "harshkothari410 <harshkothari410@gmail.com>"
+    },
+    "bootstrap.min.js": {
+        "commit": "bcb3af56297089f0074156a32e18be1faba1fe02",
+        "message": "initial commit",
+        "data": "Mon Jul 15 03:33:34 2013 +0530",
+        "long_message": "Added certain facility like adding language, searching language and filtering language",
+        "author": "harshkothari410 <harshkothari410@gmail.com>"
+    }
+}
