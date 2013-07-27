@@ -3,13 +3,13 @@ from gitbot import *
 
 
 def commit(path, directory):
-	option = raw_input('If you want to entire commit then press 1 or just want to last commit then press 2 : ')
+	option = raw_input('If you want the entire commit then press 1 or just want the first commit then press 2 : ')
 	files = os.popen('ls ' + path + '/' + directory).read()
 	file_list = files.split('\n')
 	finalpath = path + '/' + directory
 	print file_list[:len(file_list) - 1]
 	commit_dict = {}
-	keys = ['commit','author','data','message','long_message']
+	keys = ['commit','author','date','message','long_message']
 	if option == '1':
 		for f in file_list[:len(file_list) - 1]:
 			command = 'git log ' + f
